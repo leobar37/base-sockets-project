@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "id": "e3e67uZWN7VrFCT7AAAD",
+      "idBD": "debd6c8f-1eaf-44d3-9bfd-e925f982ad16",
+      "nombre": "ambar",
+      "sala": "sin-sala",
+      "password": ">"
+    },
+    {
+      "id": "",
+      "idBD": "87ab5b94-b5cc-4511-a564-bce97aa675a9",
+      "nombre": "leobar37",
+      "sala": "sin-sala",
+      "password": ">"
+    },
+    {
+      "id": "",
+      "idBD": "2787469b-7481-4f6f-82c4-be2f19a0c545",
+      "nombre": "Elmer Joselo",
+      "sala": "sin-sala",
+      "password": ">"
+    }
+  ],
+  "chats": [
+    {
+      "userId": "debd6c8f-1eaf-44d3-9bfd-e925f982ad16",
+      "mensajes": [
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        }
+      ]
+    },
+    {
+      "userId": "87ab5b94-b5cc-4511-a564-bce97aa675a9",
+      "mensajes": [
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        },
+        {
+          "de": "joselo",
+          "para": "matias",
+          "mensaje": "hola como estas"
+        }
+      ]
+    },
+    {
+      "userId": "2787469b-7481-4f6f-82c4-be2f19a0c545",
+      "mensajes": []
+    }
+  ]
+}
